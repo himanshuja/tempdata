@@ -1,0 +1,277 @@
+{
+  "North India": [
+    {
+      "city_state": "Delhi",
+      "places_to_visit": [
+        "Red Fort",
+        "India Gate",
+        "Qutub Minar",
+        "Lotus Temple",
+        "Humayun\u2019s Tomb",
+        "Akshardham Temple",
+        "Raj Ghat",
+        "Jama Masjid",
+        "Chandni Chowk",
+        "National Museum",
+        "Rashtrapati Bhavan"
+      ]
+    },
+    {
+      "city_state": "Agra",
+      "places_to_visit": [
+        "Taj Mahal",
+        "Agra Fort",
+        "Mehtab Bagh",
+        "Fatehpur Sikri",
+        "Tomb of Itimad-ud-Daulah",
+        "Akbar\u2019s Tomb",
+        "Chini Ka Rauza",
+        "Jama Masjid",
+        "Mariam's Tomb"
+      ]
+    },
+    {
+      "city_state": "Varanasi",
+      "places_to_visit": [
+        "Kashi Vishwanath Temple",
+        "Dashashwamedh Ghat",
+        "Assi Ghat",
+        "Manikarnika Ghat",
+        "Sarnath",
+        "Banaras Hindu University (BHU)",
+        "Tulsi Manas Mandir",
+        "Ramnagar Fort",
+        "Bharat Kala Bhavan"
+      ]
+    },
+    {
+      "city_state": "Amritsar",
+      "places_to_visit": [
+        "Golden Temple",
+        "Jallianwala Bagh",
+        "Wagah Border",
+        "Partition Museum",
+        "Gobindgarh Fort",
+        "Durgiana Temple",
+        "Ram Bagh Gardens",
+        "Maharaja Ranjit Singh Museum"
+      ]
+    },
+    {
+      "city_state": "Leh",
+      "places_to_visit": [
+        "Pangong Lake",
+        "Shanti Stupa",
+        "Leh Palace",
+        "Magnetic Hill",
+        "Thiksey Monastery",
+        "Hemis Monastery",
+        "Spituk Monastery",
+        "Zanskar Valley",
+        "Khardung La Pass"
+      ]
+    },
+    {
+      "city_state": "Shimla",
+      "places_to_visit": [
+        "The Ridge",
+        "Mall Road",
+        "Jakhoo Temple",
+        "Christ Church",
+        "Kufri",
+        "Green Valley",
+        "Indian Institute of Advanced Study",
+        "Scandal Point"
+      ]
+    }
+  ],
+  "South India": [
+    {
+      "city_state": "Goa",
+      "places_to_visit": [
+        "Baga Beach",
+        "Calangute Beach",
+        "Anjuna Beach",
+        "Fort Aguada",
+        "Chapora Fort",
+        "Dudhsagar Falls",
+        "Basilica of Bom Jesus",
+        "Se Cathedral",
+        "Spice Plantation",
+        "SinQ Nightclub",
+        "Arpora Night Market"
+      ]
+    },
+    {
+      "city_state": "Mysore",
+      "places_to_visit": [
+        "Mysore Palace",
+        "Chamundi Hills",
+        "Brindavan Gardens",
+        "St. Philomena\u2019s Church",
+        "Rail Museum",
+        "Karanji Lake",
+        "Jaganmohan Palace",
+        "Sri Chamarajendra Zoological Gardens"
+      ]
+    },
+    {
+      "city_state": "Bengaluru",
+      "places_to_visit": [
+        "Lalbagh Botanical Garden",
+        "Cubbon Park",
+        "Bangalore Palace",
+        "Vidhana Soudha",
+        "ISKCON Temple",
+        "Bannerghatta National Park",
+        "Ulsoor Lake",
+        "Innovative Film City",
+        "HAL Aerospace Museum"
+      ]
+    },
+    {
+      "city_state": "Chennai",
+      "places_to_visit": [
+        "Marina Beach",
+        "Kapaleeshwarar Temple",
+        "San Thome Basilica",
+        "Fort St. George",
+        "Government Museum",
+        "Guindy National Park",
+        "Elliot\u2019s Beach",
+        "Vivekananda House",
+        "Birla Planetarium"
+      ]
+    },
+    {
+      "city_state": "Hyderabad",
+      "places_to_visit": [
+        "Charminar",
+        "Golconda Fort",
+        "Ramoji Film City",
+        "Hussain Sagar Lake",
+        "Birla Mandir",
+        "Salar Jung Museum",
+        "Chowmahalla Palace",
+        "Nehru Zoological Park",
+        "Snow World"
+      ]
+    },
+    {
+      "city_state": "Rishikesh",
+      "places_to_visit": [
+        "Laxman Jhula",
+        "Ram Jhula",
+        "Triveni Ghat",
+        "Parmarth Niketan",
+        "Neelkanth Mahadev Temple",
+        "Beatles Ashram",
+        "Swarg Ashram",
+        "Gita Bhawan",
+        "Vashishta Gufa"
+      ]
+    }
+  ],
+  "West India": [
+    {
+      "city_state": "Mumbai",
+      "places_to_visit": [
+        "Gateway of India",
+        "Marine Drive",
+        "Chhatrapati Shivaji Terminus",
+        "Elephanta Caves",
+        "Juhu Beach",
+        "Siddhivinayak Temple",
+        "Haji Ali Dargah",
+        "Colaba Causeway",
+        "Bandra-Worli Sea Link",
+        "Film City",
+        "Chor Bazaar"
+      ]
+    },
+    {
+      "city_state": "Udaipur",
+      "places_to_visit": [
+        "City Palace",
+        "Lake Pichola",
+        "Jag Mandir",
+        "Jagdish Temple",
+        "Fateh Sagar Lake",
+        "Saheliyon Ki Bari",
+        "Bagore Ki Haveli",
+        "Monsoon Palace",
+        "Shilpgram"
+      ]
+    },
+    {
+      "city_state": "Jodhpur",
+      "places_to_visit": [
+        "Mehrangarh Fort",
+        "Jaswant Thada",
+        "Umaid Bhawan Palace",
+        "Clock Tower & Sardar Market",
+        "Mandore Gardens",
+        "Rao Jodha Desert Rock Park",
+        "Toorji Ka Jhalra"
+      ]
+    },
+    {
+      "city_state": "Jaipur",
+      "places_to_visit": [
+        "Amber Fort",
+        "Hawa Mahal",
+        "City Palace",
+        "Jantar Mantar",
+        "Nahargarh Fort",
+        "Albert Hall Museum",
+        "Jal Mahal",
+        "Birla Mandir",
+        "Jaigarh Fort",
+        "Galta Ji Temple"
+      ]
+    }
+  ],
+  "East India": [
+    {
+      "city_state": "Kolkata",
+      "places_to_visit": [
+        "Victoria Memorial",
+        "Howrah Bridge",
+        "Dakshineswar Kali Temple",
+        "Kalighat Temple",
+        "Indian Museum",
+        "St. Paul\u2019s Cathedral",
+        "Science City",
+        "Eco Park",
+        "Birla Planetarium",
+        "Princep Ghat"
+      ]
+    },
+    {
+      "city_state": "Darjeeling",
+      "places_to_visit": [
+        "Tiger Hill",
+        "Darjeeling Himalayan Railway",
+        "Batasia Loop",
+        "Peace Pagoda",
+        "Padmaja Naidu Zoological Park",
+        "Himalayan Mountaineering Institute",
+        "Tea Gardens",
+        "Happy Valley Tea Estate"
+      ]
+    },
+    {
+      "city_state": "Khajuraho",
+      "places_to_visit": [
+        "Western Group of Temples",
+        "Lakshmana Temple",
+        "Kandariya Mahadev Temple",
+        "Vishwanath Temple",
+        "Raneh Falls",
+        "Archaeological Museum",
+        "Eastern Group of Temples",
+        "Dulhadev Temple"
+      ]
+    }
+  ]
+}
